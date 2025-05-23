@@ -49,7 +49,7 @@ Welcome to my Digital Portfolio. This portfolio reflects my growth, skills, and 
 
 ### Evidence
 -You can download my Cv in the link below
-- (https://github.com/Itu156/Cv/blob/main/CV%202025.pdf?raw=true)
+-(https://github.com/Itu156/Cv/blob/main/Itumeleng__Bedesho.pdf?raw=true)
 
 ###  Reflection
 **Situation:** I needed a professional CV that reflects my current achievements.  
