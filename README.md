@@ -76,8 +76,9 @@ Welcome to my Digital Portfolio. This portfolio reflects my growth, skills, and 
 
 ##  Contact
 
-**GitHub:** 
-**Email:** bedeshoitumeleng@gmail.com 
+**Linkdin:** www.linkedin.com/in/itumeleng-bedesho-3278472b9 .
+**GitHub:** https://github.com/Itu156 .
+**Email:** bedeshoitumeleng@gmail.com .
 
 ---
 
